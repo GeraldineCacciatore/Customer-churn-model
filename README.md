@@ -1,9 +1,13 @@
 # Customer-churn-model
 
 This case study consists of calculating the churn of customers in a telecommunications company.
+
 The company has found that between December 2019 and January 2020 they have had quite a few customer casualties.
+
 The objective is to build an analytical model that is capable of predicting the next customers who are potential to leave the operator in order to launch a campaign and try to retain them before portability.
+
 In addition, company managers want to know the reasons why customers are leaving.
+
 For this I worked with six datasets with data that provide customer information.
 
 ### Dataset information
